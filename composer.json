@@ -1,0 +1,11 @@
+{
+    "config": {
+        "optimize-autoloader": true
+    },
+    "description": "Boletos em PHP",
+    "license": "MIT",
+    "name": "adelarcubs/boleto",
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
